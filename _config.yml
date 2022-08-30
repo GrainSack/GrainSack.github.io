@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "KimShinSeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "  "
+  location         : "Yonsei-university"
+  email            : "tltydl2@yonsei.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
